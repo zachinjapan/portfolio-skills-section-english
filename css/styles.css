@@ -68,8 +68,8 @@ section {
 }
 
 .nav_item_in_viewport {
-  color: rgb(0, 166, 255);
-  background-color: rgb(255, 255, 255);
+  color: rgb(0, 119, 255);
+  background-color: white;
   border-radius: 10%;
 }
 
@@ -153,6 +153,7 @@ figure {
   padding: 1em;
   text-align: left;
   height: fit-content;
+  min-height: 600px;
 }
 
 @media only screen and (min-width: 35em) {
