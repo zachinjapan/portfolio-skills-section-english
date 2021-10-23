@@ -154,6 +154,10 @@ figure {
   text-align: left;
   height: fit-content;
   min-height: 600px;
+  /* flex */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
 }
 
 @media only screen and (min-width: 35em) {
